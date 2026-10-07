@@ -1,0 +1,16 @@
+# This file is used to override language statistics
+
+*.jpeg binary
+*.min.css linguist-generated
+*.html linguist-vendored
+*.yaml linguist-detectable=false
+*.woff2 binary
+
+public/*.html linguist-vendored
+
+package-lock.json linguist-generated
+
+go.sum linguist-generated
+*.md linguist-documentation
+app/*.tsx linguist-detectable
+# eof 34953208
